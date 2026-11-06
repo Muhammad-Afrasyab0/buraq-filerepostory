@@ -1,0 +1,6 @@
+Buraq Holidays Corporate Management Suite
+Version: 1.1.0
+Architecture: Node.js + Express + PostgreSQL
+Data encryption: AES-256-GCM
+Password hashing: bcrypt
+Enhancement release: Pilgrim itinerary, Package Generator, Ticket Booking, Finance printing
